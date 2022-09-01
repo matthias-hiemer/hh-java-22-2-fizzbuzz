@@ -10,7 +10,7 @@ public class FizzBuzz {
             return "fizzbuzz";
 
         } else if (isDividableBy3) {
-            return "Currwurst";
+            return "fizz";
 
         } else if (isDividableBy5) {
             return "buzz";
